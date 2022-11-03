@@ -4,8 +4,6 @@
 
 ![Imagem do projeto](./see-project/img01.png)
 
-<h3>No GitFav você pode contar com as seguintes funcionalidades:</h3>
-
 <p>Telas de até 1150px:</p>
 
 ![Imagem do projeto](./see-project/img02.png)
