@@ -16,8 +16,6 @@
 
 ![Imagem do projeto](./see-project/img04.png)
 
-<p>Verificar se o usuário está correto ou se existe no GitHub:</p>
-
 <h2 align="center">Tecnologias utilizadas</h2>
 
 <p align="center">
